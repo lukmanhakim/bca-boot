@@ -1,0 +1,8 @@
+bca:
+    host: https://sandbox.bca.co.id
+    apiKey: 1a8dc7e8-bd0d-402d-8abf-d38685d57a80
+    apiSecret: dd76c407-6ae4-4964-8109-800788dbaf25
+    clientId: 2eb7c4fc-5f52-4165-a879-0275aa3e381c
+    clientSecret: 87a70045-4764-4d97-8faa-f2ebcc8bed6a
+    corpId: BCAAPI2016
+    accounts: 0201245680,0063001004
